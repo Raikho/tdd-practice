@@ -1,0 +1,26 @@
+{
+  "name": "tdd-practice",
+  "version": "1.0.0",
+  "description": "Practice for Test Driven Development from The Odin Project",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raikho/tdd-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raikho/tdd-practice/issues"
+  },
+  "homepage": "https://github.com/raikho/tdd-practice#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
