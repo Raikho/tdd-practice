@@ -1,7 +1,5 @@
-import sum from '../functions/capitalize.js'
-// const sum = function(a, b) {return a + b;}
+import capitalize from '../functions/capitalize.js'
 
-test('adds 1 + 2 to equal 3', () => {
-    expect(sum(1, 2)).toBe(3);
+test('capitalize: single letter', () => {
+    expect(capitalize('h')).toBe('H');
 });
-// console.log(sum);
